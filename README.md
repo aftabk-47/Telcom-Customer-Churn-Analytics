@@ -100,11 +100,7 @@ The Power BI dashboard includes:
 
 ## Dashboard Preview
 
-Add a screenshot of the Power BI dashboard inside the `dashboard/` folder.
-
-```text
-Dashboard/Telcom_Customer_Churn_Dashboard.png
-```
+![Telecom Customer Churn Dashboard](Dashboard/Telcom_Customer_Churn_Dashboard.png)
 
 ---
 
